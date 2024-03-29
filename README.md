@@ -20,3 +20,4 @@ IMPORTANT - API Keys:
   - Please get an API key for the Alpha Vantage and Clearbit API's to seamlessly use my program
   - Get the Alpha Vantage API key here: https://www.alphavantage.co/support/#api-key
   - Get the Cleabit API key here by following the steps: https://help.clearbit.com/hc/en-us/articles/6045527495191-Access-your-Clearbit-API-key
+  - Run the 'run_program.py' file to interact with the program
