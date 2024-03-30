@@ -14,10 +14,12 @@ Technical details:
 - Used the io and PIL modules to perform operations with image data 
 - Used the pandas module to save and read user preferences
 - Used the smtplib to send emails to users
-- Used PythonAnywhere to automatically send users emails everyday
+- Used the schedule and time modules to automatically send users emails everyday
 
-IMPORTANT - API Keys:
+IMPORTANT - Program functionality:
   - Please get an API key for the Alpha Vantage and Clearbit API's to seamlessly use my program
   - Get the Alpha Vantage API key here: https://www.alphavantage.co/support/#api-key
   - Get the Cleabit API key here by following the steps: https://help.clearbit.com/hc/en-us/articles/6045527495191-Access-your-Clearbit-API-key
   - Run the 'run_program.py' file to interact with the program
+  - If you would like the email mechanism to function, please email me at je.sundaram@gmail.com and I will provide the password for the email account
+  - To automatically receive emails everyday, ensure that you leave the send_emails.py file running 
