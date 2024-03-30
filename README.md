@@ -11,7 +11,7 @@ Technical details:
 - Utillized Alpha Vantage's API to extract stock information and the top gainers and losers
 - Used the Clearbit API to get company logos
 - Used the Yahoo Finance API to find company logo given ticker, to display the names of the top gainers and losers
-- Used the io and PIL modules to perform operations with image data 
+- Used the io and Pillow modules to perform operations with image data 
 - Used the pandas module to save and read user preferences
 - Used the smtplib to send emails to users
 - Used the schedule and time modules to automatically send users emails everyday
